@@ -13,7 +13,7 @@ person.firstName = 'Arya';
 console.log(person2.firstName); // output
 console.log(person.firstName); // output
 console.log(person.lastName); // output
-console.log(person == person2); // output
+console.log(person == person2); // outputt
 console.log(person === person2); // output
 console.log(person.lastName === person2.lastName); // output
 ```
