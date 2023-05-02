@@ -5,7 +5,7 @@
 // 3. Create an array named `colors` that contains five different names of colors as strings.
 
 // 4. Access the first color in the array and print it to the console using `console.log()`
-
+a
 // 5. Access the third color in the array and print it to the console using `console.log()`
 
 // 6. Access the last color in the array and print it to the console using `console.log()`
