@@ -12,7 +12,7 @@ let movies = [
     title: 'Area X: Annihilation',
     year: '2018',
     genres: ['Adventure', 'Drama', 'Fantasy'],
-    releaseDate: '2018-02-23',
+    releaseDate: '2018-02-23',s
     actors: ['Tessa Thompson', 'Jennifer Jason Leigh', 'Natalie Portman'],
   },
   {
