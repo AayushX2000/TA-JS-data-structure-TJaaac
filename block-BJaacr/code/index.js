@@ -15,7 +15,7 @@ Hint: (Structure of got variable)
   - `houses` is an array of multiple house
   - Each house is an Object which has two keys: "name" and "people"
   - people is an array of all persons living in that particular house
-  - And, each person is an object with "name" and "description" properties
+  - And, each person is an xgitobject with "name" and "description" properties
 */
 
 // 1. Log the value of key "houses"
