@@ -10,7 +10,7 @@ let arr2 = arr;
 ```
 
 Answer the following with reason after going through the above code:
-
+dgit 
 - `[10] === [10]`
 - What is the value of obj? // answer
 - `obj == newObj`
