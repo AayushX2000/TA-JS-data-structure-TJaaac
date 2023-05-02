@@ -11,7 +11,7 @@ let userIds = [1230, 234, 1278, 984, 763, 900];
 /*
   @param means parameter
 
- 4. Write a function named times which accets two parameter and return an array. 
+ 4. Write a functison named times which accets two parameter and return an array. 
 
   @param times (number)
   @param character (string)
