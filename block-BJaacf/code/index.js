@@ -9,7 +9,7 @@
 // 5. Find the lowest number in the array and print it to the console using console.log()
 
 // 6. Find the even numbers in the array and print them to the console using console.log()
-
+x
 // 7. Find the odd numbers in the array and print them to the console using console.log()
 
 // 8. Find the numbers in the array that is divisible by 5 and print them to the console using console.log()
